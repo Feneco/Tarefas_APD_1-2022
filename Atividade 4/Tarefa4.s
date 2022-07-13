@@ -11,7 +11,7 @@ finish:	add  $v0, $t0,   $zero
 1.c)
 
 v = 0
-for(w = 20; x < w; w += 3){
+for(w = 20; y < w; w += 3){
     v += w
 }
 z = v
